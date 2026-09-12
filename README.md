@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hunter C Welbes
+I am a Data Science student who is passionate about investigating connections in data and creating visualizations reflecting such discoveries.
 
-<!--
-**hwelbes/hwelbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills
+**Languages** Python, R, SQL, C++
+**Currently Learning** Predictive Modeling and Machine Learning
+**Tools** Power BI, Tableau, JupyterLab
+**Interests** Statistics, Predictive Modeling
 
-Here are some ideas to get you started:
+## Learning Goals
+Advance skills in Predictive Modeling to compete in Kaggle competitions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+**Email** hunterwelbes@gmail.com
+**LinkedIn** [Coming Soon]
+
+##  Fun Facts
+- I am both a professional swimmer and diver
+- I just started learning how to fish
+
