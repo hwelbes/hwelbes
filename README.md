@@ -10,5 +10,9 @@ I am a Data Science student who is passionate about investigating connections in
 ## Learning Goals
 Advance skills in Predictive Modeling to compete in Kaggle competitions.
 
+## Contact Me
+**Email** hunterwelbes@gmail.com
+**LinkedIn** [Coming Soon]
+
 
 
