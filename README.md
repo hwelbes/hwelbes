@@ -14,5 +14,7 @@ Advance skills in Predictive Modeling to compete in Kaggle competitions.
 **Email** hunterwelbes@gmail.com
 **LinkedIn** [Coming Soon]
 
-
+##  Fun Facts
+- I am both a professional swimmer and diver
+- I just started learning how to fish
 
